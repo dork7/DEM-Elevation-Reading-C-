@@ -1,0 +1,1 @@
+g++ -std=c++11 -Wall -Werror -g -O2 read_dem.cpp -lgdal -o read_dem
